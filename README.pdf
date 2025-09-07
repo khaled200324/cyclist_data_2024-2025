@@ -1,0 +1,21 @@
+Cyclistic Bike-Share Analysis
+This project is part of the Google Data Analytics Capstone Case Study. The goal is to analyze
+Cyclistic’s historical bike-share trip data to identify differences between casual riders and annual
+members, and provide recommendations to increase memberships.
+n Project Overview
+- Business Task: Understand how casual riders and annual members use Cyclistic bikes differently,
+and suggest strategies to convert casual riders into members.
+- Data: Publicly available Cyclistic trip data (12 months of .csv files).
+- Tools Used: R (tidyverse, lubridate, ggplot2), GitHub for version control.
+n Key Findings
+- Casual riders prefer longer rides, especially on weekends and with electric bikes.
+- Members ride more often during weekdays and commuting hours.
+- Members have shorter, consistent ride lengths.
+n Key Visualizations
+1. Rides per Month (Members vs Casuals)
+2. Average Ride Length by Day of Week
+3. Bike Type Usage
+n Recommendations
+1. Launch targeted weekend/electric bike membership offers.
+2. Highlight cost savings of membership compared to casual rides.
+3. Run location-based campaigns at top casual stations
